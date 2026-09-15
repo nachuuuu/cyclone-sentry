@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+node_modules/
+dist/
+build/
+.env
+.env.local
+.vscode/
+.idea/
+*.geojson
+*.tiff
+*.tif
+*.nc
